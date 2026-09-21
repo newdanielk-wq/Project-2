@@ -54,3 +54,8 @@ h1, h2, h3 {
   color: #2b0338;
   letter-spacing: 0.5px;
 }
+
+h1 {
+  text-align: center;
+  margin: 2rem 1rem 1rem;
+}
