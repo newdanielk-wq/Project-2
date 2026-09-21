@@ -15,4 +15,21 @@ h1.hometext {
   margin: 0;
   padding: 0;
   background-color: #6c0a8a;/*Dark purple*/
+  gap: 1.5rem;
+}
+
+.nav-list a {
+  display: block;
+  padding: 1rem 1.25rem;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Michroma", sans-serif;
+  font-size: 1rem;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.nav-list a:hover,
+.nav-list a:focus-visible {
+  background-color: #3b4252;
+  color: #88c0d0;
 }
