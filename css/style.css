@@ -48,3 +48,9 @@ body {
   margin: 0;
   padding-bottom: 3rem;
 }
+
+h1, h2, h3 {
+  font-family: "Michroma", sans-serif;
+  color: #2b0338;
+  letter-spacing: 0.5px;
+}
