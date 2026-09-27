@@ -1,12 +1,12 @@
 
 .michroma-regular {
-  font-family: "Michroma", sans-serif;
+  font-family: "Michroma", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 h1.hometext {
-  font-family: "Michroma", sans-serif;
+  font-family: "Michroma", Helvetica, Arial, sans-serif;
 }
 
 .navbar {
@@ -29,7 +29,7 @@ h1.hometext {
   padding: 0.5rem 1rem;
   color: #ffffff;
   text-decoration: none;
-  font-family: "Michroma", sans-serif;
+  font-family: "Michroma", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   transition: background-color 0.2s ease, color 0.2s ease;
 }
@@ -41,7 +41,7 @@ h1.hometext {
 }
 
 body {
-  font-family: "Segoe UI", Roboto, sans-serif;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
   background-color: #f7f9fb;
   color: #2e3440;
   line-height: 1.6;
@@ -50,7 +50,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: "Michroma", sans-serif;
+  font-family: "Michroma", Helvetica, Arial, sans-serif;
   color: #2b0338;
   letter-spacing: 0.5px;
 }
